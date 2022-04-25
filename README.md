@@ -1,5 +1,4 @@
 # web-socket
-# web-socket
 旧版本的Tomcat 不能支持WebSocket, 至少需要 7.0.47 以上才可以
 # WebSocket Struts 注意事项:
 Struts配置文件: 
